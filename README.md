@@ -1,2 +1,2 @@
-# basics
-Basics, basics, basics.
+# Basics
+All about basics.
