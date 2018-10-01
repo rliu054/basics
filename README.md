@@ -1,5 +1,5 @@
 # Deep Learning Basics
-Personal notes on different deep learning tools and concepts.
+Personal notes on basic deep learning tools and concepts.
 
 ## Catalog
 
