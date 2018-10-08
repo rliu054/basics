@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 tags
 data/
+*.ckpt
 __pycache__/
 *.py[cod]
 *$py.class
