@@ -6,7 +6,4 @@ Personal notes on deep learning basics.
 - Python
 - Matplotlib
 - Scikit-learn
-- PyTorch
-
-## Author
-&copy; [Rui Liu](http://ruiliu.me)
+- [PyTorch Tutorials](https://pytorch.org/tutorials)
